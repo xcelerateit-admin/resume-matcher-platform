@@ -74,8 +74,11 @@ You must reuse your own tech stack from Phase 1.
      - Setup instructions
      - Integration flow (1–2 paragraph explanation)
      - Sample resume + sample output screenshot
-3. Submit the repo link via this final form:  
-   [https://forms.gle/your-phase2-form-link](https://forms.gle/your-phase2-form-link)
+4. Submit your GitHub repo link to the following email ID:  
+    **support@xcelerateit.ai**
+5. Use the subject line:  
+   `[Role] - [Your Full Name] - GitHub Submission`  
+   Example: `AI/ML Developer - Anjali Mehta - GitHub Submission`   
 
 ---
 
